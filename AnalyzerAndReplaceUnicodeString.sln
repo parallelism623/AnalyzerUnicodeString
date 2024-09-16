@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerAndReplaceUnicodeString", "AnalyzerAndReplaceUnicodeString\AnalyzerAndReplaceUnicodeString\AnalyzerAndReplaceUnicodeString.csproj", "{D6655AFE-9F57-4B14-9616-4828DD8B39CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerAndReplaceUnicodeString.CodeFixes", "AnalyzerAndReplaceUnicodeString\AnalyzerAndReplaceUnicodeString.CodeFixes\AnalyzerAndReplaceUnicodeString.CodeFixes.csproj", "{A18B829F-DF04-40CD-BA21-C7F682D289FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerAndReplaceUnicodeString.Package", "AnalyzerAndReplaceUnicodeString\AnalyzerAndReplaceUnicodeString.Package\AnalyzerAndReplaceUnicodeString.Package.csproj", "{78754F2A-0458-4709-B9F4-48397709F3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerAndReplaceUnicodeString.Test", "AnalyzerAndReplaceUnicodeString\AnalyzerAndReplaceUnicodeString.Test\AnalyzerAndReplaceUnicodeString.Test.csproj", "{FDEAD49E-9A1D-49E1-B102-B43296D39579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerAndReplaceUnicodeString.Vsix", "AnalyzerAndReplaceUnicodeString\AnalyzerAndReplaceUnicodeString.Vsix\AnalyzerAndReplaceUnicodeString.Vsix.csproj", "{D3B697BE-343E-4A40-9D9E-A3CD25933317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6655AFE-9F57-4B14-9616-4828DD8B39CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6655AFE-9F57-4B14-9616-4828DD8B39CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6655AFE-9F57-4B14-9616-4828DD8B39CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6655AFE-9F57-4B14-9616-4828DD8B39CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18B829F-DF04-40CD-BA21-C7F682D289FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18B829F-DF04-40CD-BA21-C7F682D289FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18B829F-DF04-40CD-BA21-C7F682D289FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18B829F-DF04-40CD-BA21-C7F682D289FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78754F2A-0458-4709-B9F4-48397709F3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78754F2A-0458-4709-B9F4-48397709F3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78754F2A-0458-4709-B9F4-48397709F3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78754F2A-0458-4709-B9F4-48397709F3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEAD49E-9A1D-49E1-B102-B43296D39579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEAD49E-9A1D-49E1-B102-B43296D39579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEAD49E-9A1D-49E1-B102-B43296D39579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEAD49E-9A1D-49E1-B102-B43296D39579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B697BE-343E-4A40-9D9E-A3CD25933317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B697BE-343E-4A40-9D9E-A3CD25933317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B697BE-343E-4A40-9D9E-A3CD25933317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B697BE-343E-4A40-9D9E-A3CD25933317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17DBDE0B-9EAA-4A1F-9743-6A7D6818EF93}
+	EndGlobalSection
+EndGlobal
